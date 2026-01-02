@@ -32,3 +32,36 @@ The content prioritizes **analysis, investigation, documentation, and defensive 
 
 ## 🧩 Repository Structure
 
+---
+
+## 📂 Case Studies – Practical SOC Scenarios
+
+This repository includes **realistic end-to-end SOC case studies**, designed to demonstrate how multiple defensive domains work together in real incidents.
+
+Each case follows a structured workflow:
+**Detection → Analysis → Correlation → Response → Documentation**
+
+### 🧪 Case Study 01 – Phishing to Incident Response
+**Scenario:** User-reported phishing email leading to potential account compromise  
+**Domains involved:** Phishing Analysis, Threat Intelligence, SIEM, Network Analysis, Incident Response  
+
+📄 File:  
+`07_Case_Studies/Case_01_Phishing_to_Incident_Response.md`
+
+---
+
+### 🧪 Case Study 02 – Malware Beaconing and Containment
+**Scenario:** Malware infection detected through network beaconing behavior  
+**Domains involved:** SIEM Analysis, Network Analysis, Threat Intelligence, Endpoint Investigation, Incident Response  
+
+📄 File:  
+`07_Case_Studies/Case_02_Malware_Beaconing_and_Containment.md`
+
+---
+
+These case studies reflect **real SOC workflows**, emphasizing:
+- Alert triage and validation
+- Cross-domain correlation
+- MITRE ATT&CK mapping
+- Evidence-based decision making
+- Clear incident documentation
