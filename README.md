@@ -11,6 +11,19 @@
 
 Practical and structured study guide for the **Blue Team Level 1 (BTL1)** certification, focused on **real-world SOC and Blue Team operations**.
 
+## 📑 Table of Contents
+
+- [🎯 Objectives](#-objectives)
+- [🧩 Repository Structure](#-repository-structure)
+- [📂 Case Studies – Practical SOC Scenarios](#-case-studies--practical-soc-scenarios)
+  - [🧪 Case Study 01 – Phishing to Incident Response](#-case-study-01--phishing-to-incident-response)
+  - [🧪 Case Study 02 – Malware Beaconing and Containment](#-case-study-02--malware-beaconing-and-containment)
+- [🛠️ Skills and Competencies Demonstrated](#-skills-and-competencies-demonstrated)
+- [🧠 Blue Team & SOC Mindset](#-blue-team--soc-mindset)
+- [🎓 Alignment with BTL1 Certification](#-alignment-with-btl1-certification)
+- [📌 Intended Audience](#-intended-audience)
+- [📚 Trusted References and Standards](#-trusted-references-and-standards)
+
 
 This repository serves as:
 
