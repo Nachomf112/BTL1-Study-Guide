@@ -1,21 +1,23 @@
-# BTL1 Study Guide – Blue Team Level 1
+# 🛡️ BTL1 Study Guide – Blue Team Level 1
 
-Guía de estudio práctica para la certificación **BTL1 (Blue Team Level 1)**, organizada por módulos técnicos y enfocada a defensa, detección y respuesta a incidentes.
+Practical and structured study guide for the **Blue Team Level 1 (BTL1)** certification, focused on **real-world SOC and Blue Team operations**.
 
-## 📂 Estructura del repositorio
+This repository serves as:
+- 📘 A personal BTL1 study guide
+- 🧠 A practical SOC/Blue Team portfolio
 
-- **00_Introduction_BTL1/** – Conceptos base, estrategia y planificación
-- **01_Phishing_Analysis/** – Análisis de correos maliciosos
-- **02_Threat_Intelligence/** – Threat Intelligence
-- **03_Digital_Forensics/** – Forense digital
-- **04_SIEM_Analysis/** – Investigación de alertas SIEM
-- **05_Network_Analysis/** – Análisis de tráfico de red
-- **06_Incident_Response/** – Respuesta a incidentes
-- **assets/** – Imágenes y recursos
+The content prioritizes **analysis, investigation, documentation, and defensive decision-making**.
 
-## 🎯 Objetivo
-Servir como referencia personal y material de repaso práctico orientado a entornos SOC y Blue Team.
+---
 
-## 📜 Licencia
-Ver archivo LICENSE.
+## 🎯 Objectives
+
+- Prepare for the **Security Blue Team – BTL1 certification**
+- Develop a **SOC analyst mindset**
+- Practice realistic defensive workflows
+- Build a professional Blue Team portfolio
+
+---
+
+## 🧩 Repository Structure
 

@@ -1,0 +1,45 @@
+project:
+  name: "BTL1 Study Guide"
+  description: "Practical Blue Team Level 1 study guide and SOC portfolio"
+  version: "1.0"
+  status: "active"
+
+author:
+  name: "Nacho Menárguez Fernández"
+  role: "Blue Team / SOC-focused cybersecurity learner"
+  github: "https://github.com/Nachomf112"
+
+certification:
+  name: "Blue Team Level 1"
+  provider: "Security Blue Team"
+  url: "https://securityblue.team/blue-team-level-1/"
+
+focus:
+  - Blue Team
+  - SOC Operations
+  - Incident Response
+  - Defensive Security
+
+modules:
+  - Introduction_BTL1
+  - Phishing_Analysis
+  - Threat_Intelligence
+  - Digital_Forensics
+  - SIEM_Analysis
+  - Network_Analysis
+  - Incident_Response
+
+standards_and_frameworks:
+  - NIST_SP_800_61
+  - NIST_SP_800_86
+  - NIST_SP_800_92
+  - MITRE_ATT&CK
+  - CISA
+
+intended_audience:
+  - BTL1 candidates
+  - Entry-level SOC analysts
+  - Blue Team practitioners
+  - Cybersecurity students
+
+license: "MIT"
